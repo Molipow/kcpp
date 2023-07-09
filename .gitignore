@@ -2,3 +2,6 @@ build
 kcppBasic/build
 kcppBasic.build
 .vscode
+*.exe
+*.o
+*~
