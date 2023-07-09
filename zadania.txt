@@ -12,7 +12,7 @@ repozytorium: https://github.com/IdentyfikatorUzytkownika/NazwaRepozytorium/kcpp
   1. Funkcja main
 ------------------------------------------------------------------------------------------
 
-Zadanie 1.1
+Zadanie 1.1[x]
 --------------------------------------
 Napisać program który zawiera:
 - funkcję main
@@ -30,7 +30,7 @@ Napisać program który zawiera:
 ------------------------------------------------------------------------------------------
 
 
-Zadanie 2.1
+Zadanie 2.1[x]
 --------------------------------------
 Zadanie: Napisać program z czterema funkcjami z których każda zwraca inaczej:
 1. Przez wartość
@@ -41,7 +41,7 @@ Zadanie: Napisać program z czterema funkcjami z których każda zwraca inaczej:
 
 
 
-Zadanie 2.2
+Zadanie 2.2[x]
 --------------------------------------
 Napisz program przekazujący tablice z zachowaniem rozmiaru
 Czy się da?
@@ -66,7 +66,7 @@ Napisz program przekazujący kopię tablicy. (Czy da się przekazać kopię?)
    3. Arytmetyka wskaźników
 ------------------------------------------------------------------------------------------
 
- Zadanie 3.1 (LArytmetykaWskaznikowZmienne.cc)
+ Zadanie 3.1 (LArytmetykaWskaznikowZmienne.cc)[x]
  -------------------------------------
  Kierunek adresowania pamięci 
  - wyjaśnić w komentarzu do programu podającego przykład:
@@ -74,7 +74,7 @@ Napisz program przekazujący kopię tablicy. (Czy da się przekazać kopię?)
  - nazwać program: ZadAdresowaniePamieci.cc
 
 
- Zadanie 3.2 (LArytmetykaWskazikow.cc)
+ Zadanie 3.2 (LArytmetykaWskazikow.cc)[x]
  -------------------------------------
  Wyjaśnić i[q] gdy i jest 'int', a q jest wskaźnikiem na tablice
  - wyjaśnienie  w komentarzu w treści programu!!!!
@@ -156,7 +156,7 @@ Napisać program przeliczający
   4. Operacje wejścia/wyjścia 
 ------------------------------------------------------------------------------------------
 
-Zadanie 4.0
+Zadanie 4.0[x]
 --------------------------------------
 Napisz program z przykładami manipulacji strumieniem cout:
 - setw, setprecision, setfill, fixed, scientific, hex, dec... etc (patrz plik kcpp02.pdf)
@@ -175,7 +175,7 @@ Napisz program z przykładami manipulacji strumieniem cout:
   - ustawienie liczb/wypisanie/sformatowanie wykonać używając manipulatorow strumieniem (setw, setprecision, setfill etc), zamiast " "
 
 
-Zadanie 4.1
+Zadanie 4.1[x]
 --------------------------------------
 Napisz program pokazujący funkcjonalność:
 - wypisywania na ekran,
