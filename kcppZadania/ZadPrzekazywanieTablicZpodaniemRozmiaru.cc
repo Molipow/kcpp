@@ -10,10 +10,10 @@ void foo(int arr[], int asize)
 
 int main()
 {
-    int rozmiar = 10;
+    const int rozmiar = 10;
     int tablica[rozmiar];
     for (int i = 0; i < rozmiar; i++)
-        tablica[i] = i;
+        tablica[i] = i*2;
 
     foo(tablica, rozmiar);
 

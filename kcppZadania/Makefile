@@ -37,6 +37,6 @@ ZadArytmetykaWskaznikow.exe:
 	g++ -o ZadArytmetykaWskaznikow.exe ZadArytmetykaWskaznikow.o
 
 clean:
-	del *.o
-	del *~
+	rm *.o
+	rm *~
 	

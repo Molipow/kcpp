@@ -5,8 +5,6 @@ using namespace std;
 
 int main()
 {
-	
-
 	double w1 = 3.55436 + 14.45647883;
 	double t1 = 1.88655 + 6.55544;
 	double w2 = 5.3345 + 1.58765;
